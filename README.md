@@ -9,7 +9,7 @@ This gradual contribution is a very negligible amount per every citizen or every
 
 This contribution or daily savings amount might be 1 country currency (like 1 BDT or 1 dollar) to preferred custom amount say 25 to 100 country currency or more set by any citizen by him or herself regarding their own ability and might vary on time. The collection process and to manage the very big workflow, we need to invent secured apps and IoT and digital machines.
 
-Here every citizen means the all income-generating people or family heads those are earning as well might be all young adults (Hopefully, for Bangladesh it might be 12 crores). Family heads could set up if the savings could be in name for each member or not. Even contribution for a toddler will be worth someday!
+Here every citizen means the all income-generating people or family heads those are earning as well might be all young adults (Hopefully, for Bangladesh it might be 12 crores or 120 millions). Family heads could set up if the savings could be in name for each member or not. Even contribution for a toddler will be worth someday!
 
 Thus every member of a family is contributing to making great national savings for their own housing in time regarding their ability of contribution which means, those who contribute more in time, will get their house in a shorter period.
 

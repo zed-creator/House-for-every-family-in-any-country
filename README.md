@@ -33,4 +33,4 @@ Note: The above idea could have difficulties in detail but we need to work out o
 
 Workflow:
 To make this vision real, we need to develop an automated system of money collection from mobile or bank accounts subjected to the permissions of account holders as well as to save it in a State led account. This savings for will be then gradually used to make housing for every family, specially for the needy first.
-Though for the later phase, i.e., using the savings for construction of housing, I like to propose another idea for automated distribution of payment to vendors or suppliers and to construction related all people,
+Though for the later phase, i.e., using the savings for construction of housing, I like to propose another idea for automated distribution of payment to vendors or suppliers and to construction related all people, on the basis of the approval of AI led automated checking systems of material quality, workmanship, delivery date as well major issues of any construction etc., to minimize corruptions specially in corruption prone countries.

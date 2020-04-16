@@ -34,3 +34,16 @@ Note: The above idea could have difficulties in detail but we need to work out o
 Workflow:
 To make this vision real, we need to develop an automated system of money collection from mobile or bank accounts subjected to the permissions of account holders as well as to save it in a State led account. This savings for will be then gradually used to make housing for every family, specially for the needy first.
 Though for the later phase, i.e., using the savings for construction of housing, I like to propose another idea for automated distribution of payment to vendors or suppliers and to construction related all people, on the basis of the approval of AI led automated checking systems of material quality, workmanship, delivery date as well major issues of any construction etc., to minimize corruptions specially in corruption prone countries.
+
+Contribution: 
+Money collection:
+Actually, money collection system through devices and accounts already exists in financial institutions. We need to create or import such system with extra care for security and I like to suggest for blockchain incorporation with/without crypto. When with crypto, we need to make it suitable for normal currencies like dollars etc.
+
+Deployment of money collection system:
+Then we need any Country's Government approval to build a State owned CIHAC, which will take care to collection of build fund for Housing. We also could build and deploy the money collection system in smaller scale like for a co-operative society of 50,000 people who willing to save money through this automated money collection system to their central account.
+
+Automated money distribution system:
+We need to build up AI led checking system for whole construction and these data will be used to trigger the automated payment of vendors, suppliers, contractors etc.
+
+Deployment:
+Existing construction machineries could be transformed into AI based systems.

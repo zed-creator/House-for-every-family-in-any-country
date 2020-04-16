@@ -1,4 +1,4 @@
-# House-for-every-family-in-any-country
+# Housing-for-every-family-in-any-country
 Could we ensure the housing-a basic need for every family in any country?  A Long Term Goal – Through Countrywide Greater Co-operative Measures with the help of Government:
 
 This is an idea, I have derived long ago (around 2012-13) to reach the goal “Housing for everybody”, in any country. We know that any State is actually a great communion of all the citizens of that country.

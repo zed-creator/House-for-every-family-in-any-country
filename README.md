@@ -7,7 +7,7 @@ This idea is based on that great co-operation of every citizen to have their own
 
 This gradual contribution is a very negligible amount per every citizen or every family that would be contributed automatically to that "CiHAc" from their any type of financial account daily, even it could be from their mobile recharging amount or mobile accounts!
 
-This contribution or daily savings amount might be 1 country currency (like 1 BDT) to preferred custom amount say 25 to 100 country currency or more set by any citizen by him or herself regarding their own ability and might vary on time. The collection process and to manage the very big workflow, we need to invent secured apps and IoT and digital machines.
+This contribution or daily savings amount might be 1 country currency (like 1 BDT or 1 dollar) to preferred custom amount say 25 to 100 country currency or more set by any citizen by him or herself regarding their own ability and might vary on time. The collection process and to manage the very big workflow, we need to invent secured apps and IoT and digital machines.
 
 Here every citizen means the all income-generating people or family heads those are earning as well might be all young adults (Hopefully, for Bangladesh it might be 12 crores). Family heads could set up if the savings could be in name for each member or not. Even contribution for a toddler will be worth someday!
 

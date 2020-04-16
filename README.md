@@ -20,7 +20,7 @@ Another approach could be that houses could be made on every family's existing l
 Thus any state could house their citizens or all families in time through a greater co-operative economy. This idea also could be adopted in health, education, etc., sector s.
 Here are the other two examples in which this idea could be extended.
 1. To help every family head with a one-time noteworthy amount.
-When the collection of money reach a very big amount, the government can donate a noteworthy amount at one time ( like 5 lacs) to the family heads. Priority should be given on the basis of poorness. Also, the government could fund some commercial projects that might be run by those family heads or in public-private partnership projects or will assist in buying shares of noteworthy private businesses to ensure a monthly income of those families. 
+When the collection of money reach a very big amount, the government can donate a noteworthy amount at one time ( like .5 million) to the family heads. Priority should be given on the basis of poorness. Also, the government could fund some commercial projects that might be run by those family heads or in public-private partnership projects or will assist in buying shares of noteworthy private businesses to ensure a monthly income of those families. 
 
 2. Donation- Sometimes we see that some very sick individuals or injured individuals by accidents instantly need a great amount of money to survive. Through this big co-operative account, we could help them instantly. Again some community or groups could use this idea and the necessary apps to build up some savings to donate or use it in other ways. 
 
@@ -30,3 +30,7 @@ But to manage the entire process i.e., from savings to making I devised some oth
 Thus we could ensure housing- a basic need for every family in any country.
 
 Note: The above idea could have difficulties in detail but we need to work out on them. One major problem will be a big amount of time will be needed to housing every family. In this case, at first, the poor section of the society should be housed with the help of all citizen. Then the rest gradually.
+
+Workflow:
+To make this vision real, we need to develop an automated system of money collection from mobile or bank accounts subjected to the permissions of account holders as well as to save it in a State led account. This savings for will be then gradually used to make housing for every family, specially for the needy first.
+Though for the later phase, i.e., using the savings for construction of housing, I like to propose another idea for automated distribution of payment to vendors or suppliers and to construction related all people,

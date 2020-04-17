@@ -18,13 +18,17 @@ On this way every day a very big amount will be accumulated in that great “CiH
 Here I also like to provoke for Government Association to help this great economic communion by giving subsidized Government lands for development and this subsidy could be returned through tolls or not as planned. 
 Another approach could be that houses could be made on every family's existing land. Even the government could negotiate to build highrise apartments on their existing land while giving them the proper benefits. 
 Thus any state could house their citizens or all families in time through a greater co-operative economy. This idea also could be adopted in health, education, etc., sector s.
-Here are the other two examples in which this idea could be extended.
+Here are the other examples in which this idea could be extended.
 1. To help every family head with a one-time noteworthy amount.
 When the collection of money reach a very big amount, the government can donate a noteworthy amount at one time ( like .5 million) to the family heads. Priority should be given on the basis of poorness. Also, the government could fund some commercial projects that might be run by those family heads or in public-private partnership projects or will assist in buying shares of noteworthy private businesses to ensure a monthly income of those families. 
 
-2. Donation- Sometimes we see that some very sick individuals or injured individuals by accidents instantly need a great amount of money to survive. Through this big co-operative account, we could help them instantly. Again some community or groups could use this idea and the necessary apps to build up some savings to donate or use it in other ways. 
+2. Donation- Sometimes we see that some very sick individuals or injured individuals by accidents instantly need a great amount of money to survive. Through this big co-operative account, we could help them instantly. Again some community or groups could use this idea and the necessary apps to build up some savings to donate or use it in other ways.
 
-Actually, by this idea, we are helping each other with our own contribution by a very small amount of money accumulated on a daily basis to a government-led social beneficiary account.
+3. Sometimes it is seen that, country faces food crisis or some regions of it. This system might have a branch to cater such issue.
+
+ 
+
+Actually, by this idea, we are helping each other with our own contribution by a very small amount of money accumulated or collected on a daily basis and almost silently to a government-led social beneficiary account. This system could be extended further by insisting the capable rich people to donate so that the progress will be more faster.
 
 But to manage the entire process i.e., from savings to making I devised some other ideas to prevent any kind of corruption or anomalies, should share in the future.
 Thus we could ensure housing- a basic need for every family in any country.

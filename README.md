@@ -51,3 +51,5 @@ We need to build up AI led checking system for whole construction and these data
 
 Deployment:
 Existing construction machineries could be transformed into AI based systems.
+
+

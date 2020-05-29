@@ -1,0 +1,58 @@
+@ Workfloww or Task list
+
+
+GENERAL:
+Phisibility assesment, financial risk assessment.
+
+Stakeholder analysis, Client marketing and alternative clients assessment for this app.
+Who can use this app and why he/she will be interesred?
+Marketing strategy development to attract big clients like government
+and other co-operatives or corporates.
+
+Legal aspect and compeititor aspects.
+
+Impact on housing market and overall impact on economy analysis.
+
+SOFTWARE DEEVELOPMENT:
+
+App for Money collection from mobile accounts
+with permission of the acc holder and transfering it to CIHAC.
+(For testing, any other account will be used instead of CIHAC before
+government approval)
+
+All security measures for users and collectors and government
+to prevent any fraudulent activities from any party.
+
+Simulation and testing of the app in small scale.
+
+By testing we need to answer or predict the answers of
+following questions-
+-Could this app could sustain pressure of
+mass users at a time?
+
+-Is this app well secured for any stakeholders?
+
+-How it will manage any claim of dispute regarding money by any stakeholder?
+
+-Could it produce instant banking statement for any user?
+
+-What will be the server and backup server requirements?
+
+-What about hard copies for statements or balance?
+
+
+
+
+HARDWARE DEVELOPMENT:
+
+A small server need to be installed. But if
+initial testing could be done using local server
+is an alternative too.
+
+
+
+
+
+
+
+

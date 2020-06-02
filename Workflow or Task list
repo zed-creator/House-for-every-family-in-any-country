@@ -29,6 +29,14 @@ By testing we need to answer or predict the answers of
 following questions-
 -Could this app could sustain pressure of
 mass users at a time?
+As huge nos of users could be used at a time,
+we need to take strategy to apply on small geographic 
+areas such as upojilas at primary level and each area 
+will have there own server to deal with the users nos of those areas. 
+These servers then will be connected to secondary in district levels 
+and to tersiary in division level, then finally to capital dervers.
+
+Thus we can lessen pressure as well security of the softwares could be maintained well.
 
 -Is this app well secured for any stakeholders?
 
@@ -39,6 +47,8 @@ mass users at a time?
 -What will be the server and backup server requirements?
 
 -What about hard copies for statements or balance?
+
+
 
 
 

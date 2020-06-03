@@ -1,0 +1,23 @@
+# put your algorithm here or before writing codes for the app.
+# To modify or remove some portion of existing algorithm please notify others through
+raising issues. 
+
+
+# mobile IP addresses of citizens with NID and other identity information library build up. 
+-this library already existed in databases of mobile operators, Nirbachon Commision, Statistical Bueroe, adamsumari, pourosavas. 
+-To get permissions for using these libraries, government should interfare. 
+-but for now, for a small scale prototype of that library, we will use voulanteer's informations. 
+-we should make the library in dictionary form and will import later to our main coding for the app. 
+
+# security of the libreries  
+-we need to make the library with blockchain aspects to protect it from temparing.  
+
+# other necessary libreries build up  and using existing libreries.   
+-library of locations, or photos of the users even library of passports, pouroshava certification,
+library of annual income levels, library of poors will help us.    
+
+-existing libraries from various organizations of the country as well, libreries of programming      
+languages will be needed.  
+
+# verification of identity.   
+-through user input, app will check all its libraries and let any user good to go.  

@@ -1,7 +1,7 @@
 # Housing-for-every-family-in-any-country
 Could we ensure the housing-a basic need for every family in any country?  A Long Term Goal – Through Countrywide Greater Co-operative Measures with the help of Government:
 
-This is an idea, I have derived long ago to reach the goal “Housing for everybody”, in any country. We know that any State is actually a great communion of all the citizens of that country.
+This is an idea, I have derived long ago to reach the goal “Housing for every family, everybody”, in any country. We know that any State is actually a great communion of all the citizens of that country.
 
 This idea is based on that great co-operation of every citizen to have their own house through their day to day gradual contribution to a special “Citizen’s Housing Account” (CiHAc) lead by the Govt.
 
